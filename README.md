@@ -1,5 +1,5 @@
 # End-to-End-Bike-Sharing-Project
-This End-to-End Bike Sharing Project developed using Azure Databricks, Azure Data Lake Gen 2, and Delta Lake.
+This End-to-End Bike Sharing Project developed using Azure Databricks, Blob, and Delta Lake.
 
 ### Project Overview
 The project focuses on bike sharing systems, which are automated bike rental systems with a global presence. These systems play a crucial role in traffic, environmental, and health matters. The dataset contains hourly data from various bike-sharing programs worldwide, consisting of over 500 thousand bicycles. For more detailed information on the dataset used for this project, please refer to this [link](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset).
